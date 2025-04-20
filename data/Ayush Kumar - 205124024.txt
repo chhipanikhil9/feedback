@@ -1,0 +1,1 @@
+git commit -m "Thanks for organizing the Git workshop — it was super helpful and well-run! I had never gone beyond the 'git clone' 😂, thanks for taking me there"
