@@ -1,0 +1,1 @@
+We worked with git in our CN project but we faced a lot of conflicts because of using git branches incorrectly and doing push on same branch.But in todays workshop I learnt the correct way of doing things in practicality.
